@@ -1,0 +1,2 @@
+#Lee_DroneProgram
+I instantiate two drone controller objects in main() to prove code reuse. I also added two additional commands to include lateral movement on the X, Y, and Z-axis plus Yaw. I calculate the drone's heading in degrees along with its orientation. 
